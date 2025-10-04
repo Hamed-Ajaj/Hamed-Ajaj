@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Hamed from Lebanon<br>- 🔭 I’m working as Front end develper<br>- 📚 I'm currently learning Zig⚡ 
+<p align="left">I'm Hamed from Lebanon<br>- 🔭 I’m a Full stack develper<br>- 📚 I'm currently learning Zig⚡ 
 
 ###
 
