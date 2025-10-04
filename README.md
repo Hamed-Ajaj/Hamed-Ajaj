@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Hamed from Lebanon<br>- 🔭 I’m working as Front end develper<br>- 📚 I'm currently learning supabase.<br>- ⚡ In my free time I read books, learn new tools.</p>
+<p align="left">I'm Hamed from Lebanon<br>- 🔭 I’m working as Front end develper<br>- 📚 I'm currently learning Zig⚡ 
 
 ###
 
