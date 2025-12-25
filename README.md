@@ -1,13 +1,51 @@
-### Hi, I’m Hamed Ajaj 👋
+### 👋 Hi, I’m Hamed Ajaj
 
-Full-stack developer with a strong focus on building clean, maintainable web applications.
+**Full-Stack Developer** building clean, scalable, and maintainable applications.
 
-- ⚛️ Working with **React, Next.js, Node.js**
-- 🧩 Active open-source contributor  
-  - Contributed to **shadcn/ui** and **Vue.js**
-  - Ongoing contributor to **shadcn/ui**
-- 🐹 Currently learning **Go** to build solid backend systems
-- 🚀 Interested in backend architecture and contributing to large Go open-source projects
+ I work with **React, Next.js, Node.js, TypeScript, and Tailwind CSS**  
+ I enjoy frontend UI work and crafting delightful user experiences  
+ I’m passionate about **Open Source** — contributing regularly to projects like **shadcn/ui** and **Vue.js**  
+ Currently learning **Go** to write strong backend systems and contribute to larger Go OSS projects
 
-I enjoy simple, predictable systems and learning by building real projects.
+---
+
+###  What I’m building & learning
+
+-  Full-Stack apps with **TypeScript, React, Next.js, Prisma, Drizzle, Supabase & Firebase**  
+-  Backend APIs using **Hono, Express, Go (ongoing)**  
+-  Improving system design and scalable architecture  
+-  UI-focused projects and component libraries
+
+---
+
+###  Tech Stack
+
+**Frontend:**  
+React · Next.js · TypeScript · Tailwind CSS · Redux · Zustand
+
+**Backend:**  
+Node.js · Hono · Express · Go (learning) · Firebase · Supabase · Prisma · Drizzle
+
+**Tools:**  
+Git · VS Code · Docker · Figma . Neovim
+
+---
+
+### I’m currently learning
+
+- **Go** for backend architectures and systems programming  
+- Contributing deeper into large open-source Go projects
+
+---
+
+### 🔗 Connect with me
+
+🌍 Portfolio: https://hamed-ajaj-portfolio.vercel.app/   
+📫 Email: *hamed.ajaj@proton.me*  
+🐦 X: *https://x.com/hamedthedev21*  
+💼 LinkedIn: *https://www.linkedin.com/in/hamed-ajaj19/*
+
+---
+
+> “Learning by building, contributing, and helping others through open source.”
 
