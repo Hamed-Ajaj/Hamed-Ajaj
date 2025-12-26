@@ -4,7 +4,7 @@
 
  I work with **React, Next.js, Node.js, TypeScript, and Tailwind CSS**  
  I enjoy frontend UI work and crafting delightful user experiences  
- I’m passionate about **Open Source** — contributing regularly to projects like **shadcn/ui** and **Vue.js**  
+ I’m passionate about **Open Source** — contributing regularly to projects like **shadcn/ui**  
  Currently learning **Go** to write strong backend systems and contribute to larger Go OSS projects
 
 ---
